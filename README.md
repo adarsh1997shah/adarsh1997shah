@@ -1,4 +1,4 @@
-### Hey, I'm Adarsh Shah 👋
+### Hey, I'm Adarsh Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I like to build things for the web and is currently into front-end <del>designing</del> development. :scream::relaxed:
 
