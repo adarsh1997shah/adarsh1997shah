@@ -19,7 +19,7 @@ I am always trying to grow and learn something new. I loose track of time while 
 
 ### What i am focusing on :telescope:
 
-Current imporving my react skills<br />.
+Current imporving my react skills.<br />
 If You want to sugget, teach, collaborate or ask something i am always open.
 
 ### Find me elsewhere :globe_with_meridians:
