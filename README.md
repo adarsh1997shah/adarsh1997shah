@@ -20,7 +20,7 @@ I am always trying to grow and learn something new. I loose track of time while 
 ### What i am focusing on :telescope:
 
 Current imporving my react skills.<br />
-If You want to sugget, teach, collaborate or ask something i am always open.
+If You want to suggest, teach, collaborate or ask something i am always open.
 
 ### Find me elsewhere :globe_with_meridians:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-shah-0a696a14b/)
