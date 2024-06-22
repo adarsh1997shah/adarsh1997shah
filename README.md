@@ -2,7 +2,7 @@
 
 I like to build things for the web and is currently into front-end <del>designing</del> development. :scream::relaxed:
 
-On some days when I was surfing various websites, I found myself admiring the stunning :astonished: animations and user interfaces. I began to research how they were created :runner: and my journey as a web developer began and eventually, I transitioned into front-end development.
+On some days when I was surfing various websites, I found myself admiring the stunning :astonished: animations and user interfaces. I began to research how they were created :runner: and my journey as a web developer began and eventually, I transitioned into front-end developer.
 
 Till today i am living and breathing web development and creating modern and user friendly interfaces and helping make this world better through design and code.
 
